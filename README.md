@@ -7,7 +7,7 @@ Inhalt:
 2)  Container erstellen
 3)  Container verwenden
 
-Details zu den einzelnen Schritten befinden sich im Wiki.
+Details zu den einzelnen Schritten befinden sich im [Wiki](https://github.com/BS-Concepts/Docker/wiki).
 
 # 1. Vorbereitung
 
