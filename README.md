@@ -7,6 +7,7 @@ Inhalt:
 2)  Container erstellen
 3)  Container verwenden
 
+Details zu den einzelnen Schritten befinden sich im Wiki.
 
 # 1. Vorbereitung
 
@@ -26,6 +27,3 @@ Die möglichen Parameter sind auf der GitHub Seite des [navcontainerhelper-repos
 Nun ist der Container betriebsbereit und er kann verwendet werden.
 So kann zum Beispiel mit den erstellten Shortcuts auf den Windows- oder den Web-Client zugegriffen werden.
 Auch die Verbindung auf den SQL-Server im Container, sowie das Arbeiten mit VS-Code und AL sind von außerhalb möglich.
-
-
-Weitere Informationen zu den einzelnen Punkten befinden sich im Wiki.
