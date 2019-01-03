@@ -13,6 +13,8 @@ Inhalt:
 Zunächst müssen wir die "Docker for Windows"-Anwendung installieren. Diese bekommen wir von der [Docker Webseite](https://hub.docker.com/editions/community/docker-ce-desktop-windows).
 Nach der Installation müssen wir sichergehen, dass Docker für Windows-Container eingestellt ist.
 Anschließend installieren wir noch das PowerShell-Modul "Navcontainerhelper", welches die Arbeit mit NavContainern erleichtert.
+Zum Schluss müssen wir noch ein Image festlegen aus dem wir den Container erstellen wollen.
+Dieses können wir aus einem von Windows angelegten Repositoy auf [Docker Hub](https://hub.docker.com/r/microsoft/bconprem) beziehen.
 
 # 2. Container erstellen
 
