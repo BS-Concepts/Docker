@@ -19,7 +19,7 @@ Dieses können wir aus einem von Windows angelegten Repositoy auf [Docker Hub](h
 # 2. Container erstellen
 
 Aufruf des navcontainerhelper-Befehls "new-navcontainer" um einen neuen Container zu erstellen.
-Die möglichen Parameter sind auf der GitHub Seite des navcontainerhelper-repositorys zu finden.
+Die möglichen Parameter sind auf der GitHub Seite des [navcontainerhelper-repositorys](https://github.com/Microsoft/navcontainerhelper) zu finden.
 
 # 3. Anwendung
 
