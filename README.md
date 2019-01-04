@@ -12,13 +12,11 @@ Details zu den einzelnen Schritten befinden sich im [Wiki](https://github.com/BS
 # 1. Vorbereitung
 
 Zunächst müssen wir die "Docker for Windows"-Anwendung installieren. Diese bekommen wir von der [Docker Webseite](https://hub.docker.com/editions/community/docker-ce-desktop-windows).
-[mehr](https://github.com/BS-Concepts/Docker/wiki)
-
 Nach der Installation müssen wir sichergehen, dass Docker für Windows-Container eingestellt ist.
-[mehr](https://github.com/BS-Concepts/Docker/wiki)
+[mehr](https://github.com/BS-Concepts/Docker/wiki/Docker-for-Windows)
 
 Anschließend installieren wir noch das PowerShell-Modul "Navcontainerhelper", welches die Arbeit mit NavContainern erleichtert.
-[mehr](https://github.com/BS-Concepts/Docker/wiki)
+[mehr](https://github.com/BS-Concepts/Docker/wiki/NavContainerHelper)
 
 Zum Schluss müssen wir noch ein Image festlegen aus dem wir den Container erstellen wollen.
 Dieses können wir aus einem von Windows angelegten Repositoy auf [Docker Hub](https://hub.docker.com/r/microsoft/bconprem) beziehen.
