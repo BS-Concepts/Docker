@@ -21,6 +21,7 @@ Anschließend installieren wir noch das PowerShell-Modul "Navcontainerhelper", w
 Zum Schluss müssen wir noch ein Image festlegen aus dem wir den Container erstellen wollen.
 Dieses können wir aus einem von Windows angelegten Repositoy auf [Docker Hub](https://hub.docker.com/r/microsoft/bconprem) beziehen.
 Das Image muss nicht manuell heruntergeladen werden, dies macht der Dockerbefehl automatisch, falls dieses nicht lokal gefunden wird. Wir brauchen aber die Bezeichnung des Images.
+
 Zum [Wiki](https://github.com/BS-Concepts/Docker/wiki)
 
 # 2. Container erstellen
