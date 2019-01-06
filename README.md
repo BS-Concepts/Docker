@@ -1,6 +1,6 @@
 # Nav on Docker
 
-Dies ist ein Leitfaden zur Erstellung von Docker-Containern mit der Business Central Anwendung aus von Microsoft zur Verfügung gestellten Images auf einem Windows-Rechner.
+Dies ist ein Leitfaden zur Erstellung von Docker-Containern mit der Business Central Anwendung aus von Microsoft zur Verfügung gestellten Images auf einem Windows-Rechner. (Wenn man dies zum erstenmal macht, sollte man etwas zwei Stunden einplanen und es sollten auf der Festplatte mindesten 30 GB frei sein)
 
 Inhalt:
 1)  Vorbereitung
