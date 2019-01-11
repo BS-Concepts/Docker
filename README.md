@@ -3,7 +3,7 @@
 Dies ist ein Leitfaden zur Erstellung von Docker-Containern mit der Business Central Anwendung aus von Microsoft zur Verfügung gestellten Images auf einem Windows-Rechner. (Bei Erstdownload des Images sollte man etwa zwei Stunden Zeit einplanen und auf der Festplatte sollten mindesten 30 GB frei sein)
 
 Inhalt:
-1)  [Vorbereitung](https://github.com/BS-Concepts/Docker/blob/master/README.md#2-vorbereitung)
+1)  [Vorbereitung](https://github.com/BS-Concepts/Docker/blob/master/README.md#1-vorbereitung)
 2)  [Container erstellen](https://github.com/BS-Concepts/Docker/blob/master/README.md#2-container-erstellen)
 3)  [Container verwenden](https://github.com/BS-Concepts/Docker/blob/master/README.md#3-anwendung)
 
